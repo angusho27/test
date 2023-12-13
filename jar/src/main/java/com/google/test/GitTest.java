@@ -12,6 +12,6 @@ package com.google.test;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("gitTest");
-        System.out.println("testTest");
+        System.out.println("mainTest");
     }
 }
