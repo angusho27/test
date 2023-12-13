@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("gitTest");
         System.out.println("mainTest");
         System.out.println("again");
+        System.out.println("xiugai test");
     }
 }
